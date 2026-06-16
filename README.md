@@ -6,6 +6,7 @@ Ultimate Tool est une plateforme de maintenance, diagnostic, déploiement et aud
 L'objectif est simple : regrouper dans une seule interface les outils les plus utilisés au quotidien, afin de réduire le temps d'intervention, standardiser les procédures et générer des rapports professionnels.
 
 ✨ Fonctionnalités principales
+
 🔧 Maintenance Windows automatisée
 Réparation WMI
 Analyse et réparation SFC
@@ -18,12 +19,16 @@ Nettoyage navigateurs
 Détection de pilotes obsolètes
 Détection de bloatwares
 Rapports détaillés
+
+
 📦 Déploiement d'applications
 Plus de 230 applications disponibles
 Installation via WinGet
 Déploiement en masse
 Profils personnalisés
 Détection automatique des logiciels déjà présents
+
+
 🌐 Outils réseau
 Analyse de connexion
 Tests de débit
@@ -31,24 +36,33 @@ Scan Wi-Fi
 Traceroute
 Informations IP complètes
 Réinitialisation TCP/IP et Winsock
+
+
 🗺️ Cartographie réseau avancée
 Découverte automatique des équipements
 Identification des systèmes et constructeurs
 Détection des ports ouverts
 Visualisation graphique du réseau
 Support multi-sites
+
+
 🛡️ Sécurité et audit
 Analyse des vulnérabilités (CVE)
 Détection de logiciels obsolètes
 Vérification de la configuration système
 Contrôles de confidentialité
 Audit de sécurité automatisé
+
+
 📊 Reporting
 Rapports HTML interactifs
 Export CSV
 Dossiers clients complets
 Historique des interventions
 Archivage automatique
+
+
+
 🚀 Pourquoi Ultimate Tool ?
 
 Les techniciens utilisent souvent :
@@ -85,15 +99,6 @@ Inventaire informatique
 🌐 Cartographie réseau avancée
 📊 Rapports HTML complets
 🔄 Historique des interventions
-🔮 Roadmap
- Gestion multi-clients
- Tableau de bord centralisé
- Inventaire matériel avancé
- Monitoring temps réel
- Intégration Active Directory
- Support Linux
- Agent distant
-📄 Licence
 
 Projet développé pour simplifier et professionnaliser les interventions informatiques.
 
